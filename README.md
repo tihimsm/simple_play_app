@@ -1,16 +1,23 @@
 # simple_play_app
 
-A new Flutter project.
+## Purpose of this project
 
-## Getting Started
+Create a simple app that can play audio using Flutter.
 
-This project is a starting point for a Flutter application.
+## Milestone to the goal
 
-A few resources to get you started if this is your first Flutter project:
+### Advance basic learning based on this article.
+https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Complete the Flutter tutorial.
+2. Finish reading [Flutter for iOS](https://flutter.dev/docs/get-started/flutter-for/ios-devs).
+3. Complete [Udacity online Flutter Training](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905).
+4. Systematically learn about layout with [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e).
+5. Complete [Build reactive mobile apps with Flutter](https://www.youtube.com/watch?v=RS36gBEp8OI).
+6. Go through [the official documentation for CookBook](https://flutter.dev/docs/cookbook).
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Actually create the application.
+
+1. Sound is played when you tap the list.
+2. Play audio files downloaded locally from the cloud.
+3. Get audio by streaming and play it.
