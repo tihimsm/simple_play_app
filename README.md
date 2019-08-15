@@ -9,7 +9,7 @@ Create a simple app that can play audio using Flutter.
 ### Advance basic learning based on this article.
 https://medium.com/flutter-jp/flutter-learning-c5640c5f05b9
 
-1. Complete the Flutter tutorial.
+1. Complete [the Flutter tutorial](https://flutter.dev/docs/get-started/install).
 2. Finish reading [Flutter for iOS](https://flutter.dev/docs/get-started/flutter-for/ios-devs).
 3. Complete [Udacity online Flutter Training](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905).
 4. Systematically learn about layout with [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e).
